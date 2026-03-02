@@ -1,0 +1,19 @@
+~ This is the start of the data. Be sure to include this line in the data.txt file.
+
+~ This is the stock historical price of Apple Computer
+
+Nov 01, 2022    155.08    155.45    149.14    150.06    150.06    42,636,493
+
+~ November
+
+Oct 31, 2022    153.16    154.24    151.92    153.34    153.34    97,848,900
+
+Oct 28, 2022    148.20    157.50    147.82    155.74    155.74    164,659,100
+
+Oct 27, 2022    148.07    149.05    144.13    144.80    144.80    109,180,200
+
+Oct 26, 2022    150.96    151.99    148.04    149.35    149.35    88,194,300
+
+Oct 25, 2022    150.09    152.49    149.36    152.34    152.34    74,732,30
+
+~ This is the end of the data. Be sure to include it in the data.txt file.

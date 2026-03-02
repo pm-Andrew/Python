@@ -1,0 +1,13 @@
+Requirements
+48 Laws of Power App
+
+Requirements:
+
+To install CSV Library:
+    `pip install csv`
+
+To install System Library:
+    `pip install systems`
+
+To install Random Library
+    `pip install random`
