@@ -17,26 +17,6 @@ CS50's Introduction to Programming with Python is Harvard University's introduct
 
 ---
 
-## Repository Structure
-
-Each folder corresponds to a week/unit of the course and contains my solutions to the problem sets.
-
-```
-cs50p/
-├── week0/(./week0)        # Functions, Variables
-├── week1/(./week1)        # Conditionals
-├── week2/(./week0)        # Loops
-├── week3/(./week0)        # Exceptions
-├── week4/(./week0)        # Libraries
-├── week5/(./week0)        # Unit Tests
-├── week6/(./week0)        # File I/O
-├── week7/(./week0)        # Regular Expressions
-├── week8/(./week0)        # Object-Oriented Programming
-└── final/(./W25_final)        # Final Project
-```
-
----
-
 ## Topics Covered
 
 - Functions & Variables
