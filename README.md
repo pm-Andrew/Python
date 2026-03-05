@@ -1,7 +1,7 @@
 # Python
 CTEC 121 CS50P – Introduction to Programming with Python
 
-![CS50P Certificate](CS50P-Cert.png)
+
 
 > Completed as part of Harvard's CS50P curriculum, offered through **Clark College** (Winter Quarter).
 
